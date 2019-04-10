@@ -13,7 +13,7 @@ namespace schedule1
         {
             // Change settings in Properties to enable windows forms instead of console
             Console.WriteLine("Console works");
-            // StartForms();
+            StartForms();
         }
 
         static void StartForms()

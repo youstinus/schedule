@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Web.Mvc;
+using schedule.api.net.Base.Interfaces;
 
 namespace schedule.api.net.Base
 {
-    public class BaseController
+    public class BaseController : Controller, IBaseController
     {
+
     }
 }
