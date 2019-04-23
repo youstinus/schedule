@@ -2,7 +2,7 @@
 using System.Web.Http.Cors;
 using Newtonsoft.Json.Serialization;
 
-namespace schedule.api
+namespace schedule.api.framework
 {
     public static class WebApiConfig
     {

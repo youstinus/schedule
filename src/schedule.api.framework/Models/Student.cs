@@ -1,4 +1,4 @@
-﻿namespace schedule.api.Models
+﻿namespace schedule.api.framework.Models
 {
     class Student : Person
     { // TODO add Stream and Manager

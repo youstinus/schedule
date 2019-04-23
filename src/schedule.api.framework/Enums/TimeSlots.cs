@@ -1,4 +1,4 @@
-﻿namespace schedule.api.Enums
+﻿namespace schedule.api.framework.Enums
 {
     public enum TimeSlots
     {

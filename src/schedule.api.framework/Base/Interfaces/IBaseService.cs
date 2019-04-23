@@ -1,4 +1,4 @@
-﻿namespace schedule.api.Base.Interfaces
+﻿namespace schedule.api.framework.Base.Interfaces
 {
     interface IBaseService
     {

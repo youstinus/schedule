@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace schedule1
+namespace schedule.forms.framework
 {
     public partial class Form1 : Form
     {

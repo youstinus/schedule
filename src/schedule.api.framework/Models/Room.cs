@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using schedule.api.Base;
-using schedule.api.Enums;
+using schedule.api.framework.Base;
+using schedule.api.framework.Enums;
 
-namespace schedule.api.Models
+namespace schedule.api.framework.Models
 {
     class Room : BaseModel
     {

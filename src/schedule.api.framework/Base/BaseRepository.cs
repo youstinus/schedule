@@ -1,6 +1,6 @@
-﻿using schedule.api.Base.Interfaces;
+﻿using schedule.api.framework.Base.Interfaces;
 
-namespace schedule.api.Base
+namespace schedule.api.framework.Base
 {
     public class BaseRepository : IBaseRepository
     {

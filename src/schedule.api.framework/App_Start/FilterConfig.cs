@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace schedule.api
+namespace schedule.api.framework
 {
     public class FilterConfig
     {

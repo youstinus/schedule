@@ -1,4 +1,4 @@
-﻿namespace schedule1
+﻿namespace schedule.forms.framework
 {
     partial class Form1
     {

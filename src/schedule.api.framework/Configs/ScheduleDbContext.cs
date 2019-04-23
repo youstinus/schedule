@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using schedule.api.Models;
+using schedule.api.framework.Models;
 
-namespace schedule.api.Configs
+namespace schedule.api.framework.Configs
 {
     class ScheduleDbContext : DbContext
     {

@@ -1,4 +1,4 @@
-﻿namespace schedule.api.Base
+﻿namespace schedule.api.framework.Base
 {
     public class BaseModel
     {

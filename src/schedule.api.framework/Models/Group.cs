@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using schedule.api.Base;
+using schedule.api.framework.Base;
 
-namespace schedule.api.Models
+namespace schedule.api.framework.Models
 {
     class Group : BaseModel
     {

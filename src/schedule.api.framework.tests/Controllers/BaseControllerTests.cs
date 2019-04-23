@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace schedule.api.tests.Controllers
+namespace schedule.api.framework.tests.Controllers
 {
     [TestClass]
     public class BaseControllerTests

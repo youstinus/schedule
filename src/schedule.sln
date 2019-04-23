@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api.framework.test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api.framework", "schedule.api.framework\schedule.api.framework.csproj", "{0D8A12BF-CD70-4C6F-9153-FD14B463381A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schedule.api.core.tests", "schedule.api.core.tests\schedule.api.core.tests.csproj", "{7E3267A7-CACA-4ECE-981C-46AF495BD53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api.core", "schedule.api.core\schedule.api.core.csproj", "{6B29394E-9E02-4064-B684-A50FF953031F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0D8A12BF-CD70-4C6F-9153-FD14B463381A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8A12BF-CD70-4C6F-9153-FD14B463381A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8A12BF-CD70-4C6F-9153-FD14B463381A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3267A7-CACA-4ECE-981C-46AF495BD53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3267A7-CACA-4ECE-981C-46AF495BD53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3267A7-CACA-4ECE-981C-46AF495BD53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3267A7-CACA-4ECE-981C-46AF495BD53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B29394E-9E02-4064-B684-A50FF953031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B29394E-9E02-4064-B684-A50FF953031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B29394E-9E02-4064-B684-A50FF953031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B29394E-9E02-4064-B684-A50FF953031F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

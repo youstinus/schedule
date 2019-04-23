@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace schedule.api.Models
+namespace schedule.api.framework.Models
 {
     class Professor : Person
     {
