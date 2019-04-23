@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.forms", "schedule.forms\schedule.forms.csproj", "{E07055F5-9646-44D0-A921-C16C6F69F6FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.forms.framework", "schedule.forms.framework\schedule.forms.framework.csproj", "{E07055F5-9646-44D0-A921-C16C6F69F6FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api.tests", "schedule.api.tests\schedule.api.tests.csproj", "{E2443E0A-E463-43D2-973B-99AAB4FBFC1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api.framework.tests", "schedule.api.framework.tests\schedule.api.framework.tests.csproj", "{E2443E0A-E463-43D2-973B-99AAB4FBFC1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api", "schedule.api\schedule.api.csproj", "{0D8A12BF-CD70-4C6F-9153-FD14B463381A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schedule.api.framework", "schedule.api.framework\schedule.api.framework.csproj", "{0D8A12BF-CD70-4C6F-9153-FD14B463381A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

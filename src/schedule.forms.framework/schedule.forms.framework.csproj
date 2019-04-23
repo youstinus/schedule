@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E07055F5-9646-44D0-A921-C16C6F69F6FC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>schedule1</RootNamespace>
-    <AssemblyName>schedule1</AssemblyName>
+    <RootNamespace>schedule.forms.framework</RootNamespace>
+    <AssemblyName>schedule.forms.framework</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -136,6 +136,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

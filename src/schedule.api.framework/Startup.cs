@@ -6,11 +6,11 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Jwt;
 using Owin;
-using schedule.api;
+using schedule.api.framework;
 
 [assembly: OwinStartup(typeof(Startup))]
 
-namespace schedule.api
+namespace schedule.api.framework
 {
     public class Startup
     {

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
+using schedule1;
 
-namespace schedule1
+namespace schedule.forms.framework
 {
     static class Program
     {
