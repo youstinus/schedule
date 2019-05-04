@@ -1,11 +1,25 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using schedule.api.core.Models;
+using schedule.api.core.Models.Dto;
+using GroupLecture = schedule.api.core.Models.GroupLecture;
+using GroupModule = schedule.api.core.Models.GroupModule;
+using Lecture = schedule.api.core.Models.Lecture;
+using LectureProfessor = schedule.api.core.Models.LectureProfessor;
+using LectureRoom = schedule.api.core.Models.LectureRoom;
+using LectureTimeSlot = schedule.api.core.Models.LectureTimeSlot;
+using Module = schedule.api.core.Models.Module;
+using ModuleProfessor = schedule.api.core.Models.ModuleProfessor;
+using Professor = schedule.api.core.Models.Professor;
+using Room = schedule.api.core.Models.Room;
+using Student = schedule.api.core.Models.Student;
+using TimeSlot = schedule.api.core.Models.TimeSlot;
+using TimeTable = schedule.api.core.Models.TimeTable;
 
 namespace schedule.api.core.Configs
 {
     public class ScheduleDbContext : DbContext
     {
-        public DbSet<Group> Groups { get; set; }
+        public DbSet<GroupDto> Groups { get; set; }
         public DbSet<GroupLecture> GroupLectures { get; set; }
         public DbSet<GroupModule> GroupModules { get; set; }
         public DbSet<Lecture> Lectures { get; set; }
