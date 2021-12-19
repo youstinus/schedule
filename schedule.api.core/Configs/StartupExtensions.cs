@@ -43,7 +43,7 @@ namespace schedule.api.core.Configs
                     TermsOfService = "None",
                     Contact = new Contact
                     {
-                        Name = "youstinus",
+                        Name = "example",
                         Email = string.Empty,
                         Url = ""
                     },
